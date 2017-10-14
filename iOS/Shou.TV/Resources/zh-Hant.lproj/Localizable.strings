@@ -160,8 +160,8 @@
 "account_hint_phone" = "未設定";
 "account_text_optional" = "可以不填";
 "account_text_username" = "您的使用者名稱 @%@ 是唯一的，可隨時變更。";
-"account_choose_avatar" = "選擇大頭貼";
-"account_choose_avatar_failed" = "大頭貼選擇失敗了";
+"account_choose_avatar" = "選擇大頭照";
+"account_choose_avatar_failed" = "大頭照選擇失敗了";
 "account_btn_signing_up" = "註冊中";
 "account_btn_signed_up" = "註冊成功";
 "account_btn_signing_in" = "登入中";
