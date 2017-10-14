@@ -203,7 +203,7 @@
 "account_invite_friends" = "邀請好友";
 "account_invite" = "我在 Shou.TV 名為 %@ ，請安裝此應用程式並追蹤我直播！";
 "account_user_video_delete_info" = "要刪除此影片嗎？";
-"account_email_bind" = "請確認您的電子郵件地址，您的電子信箱地址將用於登入與保護 Shou 帳號安全。";
+"account_email_bind" = "請確認您的電子郵件地址，您的電子郵件地址將用於登入與保護 Shou 帳號安全。";
 "account_email_bind_change" = "驗證新的電子郵件地址後，%@ 將不再與您的帳號連結。\n\n";
 "account_email_verify" = "輸入電子郵件中的驗證碼，讓我們知道這個電子郵箱屬於您。";
 "account_email_sent" = "我們已向 %@ 傳送了包含驗證碼的電子郵件";
